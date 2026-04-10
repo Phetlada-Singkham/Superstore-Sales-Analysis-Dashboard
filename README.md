@@ -20,3 +20,6 @@ Analyze sales performance and identify key business insights.
 
 ## Dataset
 Sample Superstore dataset (Kaggle)
+
+## Dashboard Preview
+![Dashboard Preview](Superstore_Sales_Analysis_PowerBI.png)
